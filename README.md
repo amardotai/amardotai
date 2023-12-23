@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="penguin gif">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="penguin gif" height="1rem" width="1rem">
 </p>
 
 # 😉 About Me:
