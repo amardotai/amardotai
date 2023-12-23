@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😉 About Me:
 Aspire to work around computers and develop new things forever. I have strong technical skills and an academic background in computer science, statistics, and machine learning. <br>My passion lies in finding solutions to real-world problems and discovering and learning new technologies. I can learn and adapt to any development environment in less time.<br>I have worked on many projects particularly based on web technologies or Artificial Intelligence and Machine Learning.<br><br>Proficient in Python(including scikit-learn, NumPy, Pandas), Web Development(MERN Stack), and C++. Know about Artificial Intelligence and Machine Learning, Java, Kotlin. Familiar with Natural Language Processing and Computer Vision.<br><br>Know more about me at https://codewithamar.netlify.app/<br>Get in touch via mail at amarnath.kbanerjee@gmail.com
 
 
