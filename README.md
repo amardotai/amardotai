@@ -20,7 +20,7 @@ Aspire to work around computers and develop new things forever. I have strong te
 [![](https://visitcount.itsvg.in/api?id=amardotai&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="penguin gif" height="200rm" width="200rm">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="penguin gif" height="200rm" width="200rm">
 </p>
 
 
